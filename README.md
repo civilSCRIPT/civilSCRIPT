@@ -8,3 +8,6 @@
 civilSCRIPT/civilSCRIPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Logo SCRIPT](https://github.com/civilSCRIPT/civilSCRIPT/assets/153018585/83d1362b-bcf6-47de-9df2-23fab20aea99)
+
+
